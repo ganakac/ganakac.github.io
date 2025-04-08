@@ -6,7 +6,7 @@ title: About Ganaka Chandrakumara
 <div class="post">
 	<h1 class="pageTitle">About Ganaka Chandrakumara</h1>
 	<img src="{{ '/assets/img/touring.jpg' | relative_url }}" alt="">
-	<p class="intro">I'm an engineer and an analyst. Find me on, long form <a href="https://www.linkedin.com/in/ganaka-chandrakumara/">Linkedin</a> Theme. It can be used as is or customized to your hearts desire.</p>
+	<p class="intro">I'm an engineer and an analyst. Find more about me on, <a href="https://www.linkedin.com/in/ganaka-chandrakumara/">Linkedin</a> and Stay Connected. You are here because we have a common mission.</p>
 	<p>I'm hear to support.</p>
 	<h2>Areas of Expertise</h2>
 	<ul>
