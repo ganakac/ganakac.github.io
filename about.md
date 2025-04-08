@@ -1,14 +1,14 @@
 ---
 layout: default
-title: About Long Haul
+title: About Ganaka Chandrakumara
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
+	<h1 class="pageTitle">About Ganaka Chandrakumara</h1>
 	<img src="{{ '/assets/img/touring.jpg' | relative_url }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
+	<p class="intro">I'm an engineer and an analyst. Find me on, long form <a href="https://www.linkedin.com/in/ganaka-chandrakumara/">Linkedin</a> Theme. It can be used as is or customized to your hearts desire.</p>
+	<p>I'm hear to support.</p>
+	<h2>Areas of Expertise</h2>
 	<ul>
 		<li>Built with the <a href="https://github.com/jekyll/jekyll-sass-converter">Jekyll SASS convertor</a> plugin</li>
   		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
