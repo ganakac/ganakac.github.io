@@ -27,13 +27,13 @@ navigation:
       url: /contact
 
 social:
-    github: brianmaierjr
-    twitter: brianmaierjr
-    facebook: brianmaierjr
+    #github: brianmaierjr
+    #twitter: brianmaierjr
+    #facebook: brianmaierjr
     email: ganaka.c@gmail.com
     linkedin: ganaka-chandrakumara
     youtube: ganaka.c
-    tumblr: i-am-a-fish
+    #tumblr: i-am-a-fish
 
 #google_analytics: "UA-58263416-1"
 
