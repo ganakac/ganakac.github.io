@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test Post"
+title:  "What I learnt hiking to the base of Mt Everest"
 date:   2014-12-10
 ---
 
