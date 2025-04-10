@@ -2,7 +2,7 @@
 layout: post
 title:  "What I learnt hiking to the base of Mt Everest"
 date:   2023-12-20
-url: "https://medium.com/@ganaka.c/realisations-as-i-hiked-to-the-base-of-mount-everest-8af5457ca4f3"
+url: https://medium.com/@ganaka.c/realisations-as-i-hiked-to-the-base-of-mount-everest-8af5457ca4f3
 description: Despite being a popular hiking route, the hike from Lukla to the Base of Everest sitting at around 5,364 m (an elevation difference of more than 2,500 m) is no straight forward hike. In addition to the freezing temperatures, this is primarily due to the lack of oxygen your body has to cope with at such high altitudes. In this article, allow me to share a few lessons tackling this monumental challenge taught me along the way. <a class="article-link" href="https://medium.com/@ganaka.c/realisations-as-i-hiked-to-the-base-of-mount-everest-8af5457ca4f3" target="_blank">Continue Reading</a>
 ---
 Himalayan mountain ranges are often a top item in the list of climbs among mountaineers and hikers. Despite being a popular hiking route, the hike from Lukla to the Base of Everest sitting at around 5,364 m (an elevation difference of more than 2,500 m) is no straight forward hike. In addition to the freezing temperatures, this is primarily due to the lack of oxygen your body has to cope with at such high altitudes. In this article, allow me to share a few lessons tackling this monumental challenge taught me along the way.
