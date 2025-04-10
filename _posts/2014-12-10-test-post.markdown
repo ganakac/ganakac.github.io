@@ -4,7 +4,7 @@ title:  "What I learnt hiking to the base of Mt Everest"
 date:   2014-12-10
 ---
 
-<a class="post.link" href="https://medium.com/@ganaka.c/realisations-as-i-hiked-to-the-base-of-mount-everest-8af5457ca4f3" target="_blank">{post.title}</a>
+<a class="post-link" href="https://medium.com/@ganaka.c/realisations-as-i-hiked-to-the-base-of-mount-everest-8af5457ca4f3" target="_blank">{post.title}</a>
 
 <p class="intro"><span class="dropcap">L</span>orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.</p>
 
