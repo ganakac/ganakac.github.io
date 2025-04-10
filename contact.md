@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Long Haul
+title: Contact Ganaka Chandrakumara
 ---
 
 <div id="contact">
