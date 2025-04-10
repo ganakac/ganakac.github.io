@@ -26,10 +26,10 @@ navigation:
       url: /about
     - title: CV
       url: /Resume - Ganaka Chandrakumara.pdf
-    - title: Contact
-      url: /contact
     - title: Articles
       url: /articles
+    - title: Contact
+      url: /contact
 
 social:
     #github: brianmaierjr
