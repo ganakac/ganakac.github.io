@@ -9,6 +9,9 @@ title: Professional Achievements
 	<p class="intro">I'm an engineer and an analyst. Find more about me on, <a href="https://www.linkedin.com/in/ganaka-chandrakumara/">Linkedin</a> and Stay Connected. You are here because we have a common mission.</p>
 	<p>I'm hear to support.</p>
 	<h2>Areas of Expertise</h2>
+	<h2>Areas of Expertise</h2>
+	<h2>Areas of Expertise</h2>
+	<h2>Areas of Expertise</h2>
 	<ul>
 		<li>Process Analysis & Improvement</li>
   		<li>Automation</li>
