@@ -8,8 +8,8 @@ title: Professional Achievements
 	<img src="{{ '/assets/img/1Ganaka_Running.png' | relative_url }}" alt="">
 	<p class="intro">I'm an engineer and an analyst. Find more about me on, <a href="https://www.linkedin.com/in/ganaka-chandrakumara/">Linkedin</a> and Stay Connected. You are here because we have a common mission.</p>
 	<p>I'm hear to support.</p>
-	<h2>Areas of Expertise</h2>
-	<h2>Areas of Expertise</h2>
+	<h2>Next Gen - Co-Founding Lead - Ericsson, Market Area Southeast Asia, Oceania & India</h2>
+	<h2>Program Lead - Young Professionals, Ericsson Australia & NZ </h2>
 	<h2>Culture Chamption Award - Young Professionals Summit 2020</h2>
 	<p>This award personifies the Ericsson values and recgonises the young professional that takes an active role outside of their day job to influence and advocate for issues that go to the core of what Ericsson stands for.</p>
 	<h2>Areas of Expertise</h2>
