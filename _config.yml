@@ -26,6 +26,8 @@ navigation:
       url: /about
     - title: CV
       url: /Resume - Ganaka Chandrakumara.pdf
+    - title: Professional Achievements
+      url: /achievements
     - title: Articles
       url: /articles
     - title: Contact
