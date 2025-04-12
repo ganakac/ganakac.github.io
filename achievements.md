@@ -12,7 +12,7 @@ title: Professional Achievements
 	<h2>Program Lead - Young Professionals, Ericsson Australia & NZ </h2>
 	<h2>Culture Chamption Award - Young Professionals Summit 2020</h2>
 	<p>This award personifies the Ericsson values and recgonises the young professional that takes an active role outside of their day job to influence and advocate for issues that go to the core of what Ericsson stands for.</p>
-	<h2>Vice-President - Mechanical Engineering Graduates Association, Monash University</h2><br>2014-2015
+	<h2>Vice-President - Mechanical Engineering Graduates Association, Monash University</h2>2014-2015
 	<p>This award personifies the Ericsson values and recgonises the young professional that takes an active role outside of their day job to influence and advocate for issues that go to the core of what Ericsson stands for.</p>
 	<h2>Areas of Expertise</h2>
 	<ul>
