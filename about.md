@@ -10,7 +10,7 @@ title: About Ganaka Chandrakumara
 	<p>I'm hear to support.</p>
 	<h2>Areas of Expertise</h2>
 	<ul>
-		<li>Built with the <a href="https://github.com/jekyll/jekyll-sass-converter">Jekyll SASS convertor</a> plugin</li>
+		<li>Process Improvement</li>
   		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
   		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
   		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
