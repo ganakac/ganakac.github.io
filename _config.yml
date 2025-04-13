@@ -30,8 +30,8 @@ navigation:
       url: /articles
     - title: About
       url: /about
-    - title: Contact
-      url: /contact
+    - title: Connect
+      url: /connect
 
 social:
     #github: brianmaierjr
