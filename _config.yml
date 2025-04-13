@@ -22,14 +22,14 @@ paginate: 5
 navigation:
     - title: Home
       url: /index.html
-    - title: About
-      url: /about
     - title: CV
       url: /Resume - Ganaka Chandrakumara.pdf
     - title: Professional Achievements
       url: /achievements
     - title: Articles
       url: /articles
+    - title: About
+      url: /about
     - title: Contact
       url: /contact
 
