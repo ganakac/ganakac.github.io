@@ -10,7 +10,7 @@ title: Connect Ganaka Chandrakumara
    
   </div>
   <dl>
-  <dt>Linkedin: <a href="https://www.linkedin.com/in/ganaka-chandrakumara/"> linkedin.com/in/ganaka-chandrakumara/</a> </dt>
+  <dt>Linkedin: <a href="https://www.linkedin.com/in/ganaka-chandrakumara/" target="_blank"> linkedin.com/in/ganaka-chandrakumara/</a> </dt>
   <dt>Email: <a href="ganaka.c@gmail.com"> ganaka.c@gmail.com </a> </dt>
 
   <h2 >Social Media</h2>
