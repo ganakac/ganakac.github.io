@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Professional Achievements
+title: Career Highlights
 ---
 
 <div class="post">
