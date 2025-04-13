@@ -11,7 +11,7 @@ title: Connect Ganaka Chandrakumara
     <p>If you have questions about the theme feel free to <a href="mailto:brimaidesigns@gmail.com">email me</a> or create an issue on <a href="https://github.com/brianmaierjr/long-haul">GitHub</a>. Enjoy!</p>
   </div>
   <dl>
-  <dt>Linkedin: <a href="https://www.linkedin.com/in/ganaka-chandrakumara/"> </a> </dt>
+  <dt>Linkedin: <a href="https://www.linkedin.com/in/ganaka-chandrakumara/"> linkedin.com/in/ganaka-chandrakumara/</a> </dt>
   <form action="mailto:ganaka.c@gmail.com" method="POST">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
