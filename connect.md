@@ -9,7 +9,7 @@ title: Connect Ganaka Chandrakumara
     <p class="intro">You are here because we have mutual interests and goals, let's connect and stay in touch.</p>
    
   </div>
-  [//]: #<dl>
+  <!-- <dl> -->
   <dl {display: grid; grid-template-columns: max-content auto;}>
   <dt>Linkedin: <a href="https://www.linkedin.com/in/ganaka-chandrakumara/" target="_blank"> linkedin.com/ganaka-chandrakumara/</a> </dt>
   <dt>Email: <a href="mailto:{{ganaka.c@gmail.com}}" target="_blank"> ganaka.c@gmail.com </a> </dt>
