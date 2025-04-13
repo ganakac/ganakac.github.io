@@ -10,11 +10,8 @@ title: Connect Ganaka Chandrakumara
    
   </div>
   <dl>
-  <dt>Linkedin: <a href="https://www.linkedin.com/in/ganaka-chandrakumara/" target="_blank"> linkedin.com/in/ganaka-chandrakumara/</a> </dt>
+  <dt>Linkedin: <a href="https://www.linkedin.com/in/ganaka-chandrakumara/" target="_blank"> linkedin.com/ganaka-chandrakumara/</a> </dt>
   <dt>Email: <a href="mailto:{{ganaka.c@gmail.com}}" target="_blank"> ganaka.c@gmail.com </a> </dt>
-  </dl>
-  <dl>
-  <h2 >Social Media</h2>
   <dt>Medium: <a href="https://medium.com/@ganaka.c" target="_blank"> medium.com/@ganaka.c </a> </dt>
   <dt>Youtube: <a href="https://www.youtube.com/@ganaka.c" target="_blank"> youtube.com/@ganaka.c </a> </dt>
   </dl>
