@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Ganaka Chandrakumara
+title: Connect Ganaka Chandrakumara
 ---
 
 <div id="contact">
