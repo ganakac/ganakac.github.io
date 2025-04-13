@@ -16,4 +16,5 @@ title: Connect Ganaka Chandrakumara
   <h2 >Social Media</h2>
   <dt>Medium: <a href="https://medium.com/@ganaka.c" target="_blank"> medium.com/@ganaka.c </a> </dt>
   <dt>Youtube: <a href="https://www.youtube.com/@ganaka.c" target="_blank"> youtube.com/@ganaka.c </a> </dt>
+  </dl>
 </div>
