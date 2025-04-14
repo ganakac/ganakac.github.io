@@ -8,6 +8,7 @@ title: Social Media
 	<div>
 <p class="intro">Why I love hiking and getting outdoors, push my self mentally and physically.</p>
 	</div>
-	<img src="{{ '/assets/img/Ganaka_Run.png' | relative_url }}" alt="Great Ocean Road Running Festival, 2017" style="height: 100px; width:100px;"/>
+	<img src="{{ '/assets/img/Ganaka_Run.png' | relative_url }}" alt="Great Ocean Road Running Festival, 2017" style="height: auto; width:auto;"/>
+ 	<!-- <img src="{{ '/assets/img/Ganaka_Run.png' | relative_url }}" alt="Great Ocean Road Running Festival, 2017" style="height: 100px; width:100px;"/> -->
 	
 </div>
