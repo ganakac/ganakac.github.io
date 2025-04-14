@@ -28,6 +28,8 @@ navigation:
       url: /achievements
     - title: Articles
       url: /articles
+    - title: Social Media
+      url: /articles
     #- title: About
      # url: /about
     - title: Connect
