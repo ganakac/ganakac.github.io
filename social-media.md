@@ -7,7 +7,7 @@ title: Social Media
 	<h1 class="pageTitle">How I Unwind & Reset</h1>
 	<img src="{{ '/assets/img/Ganaka_Run.png' | relative_url }}" alt="">
 	<p class="intro">Why I love hiking and getting outdoors, push my self mentally and physically.</p>
-	<p>I'm hear to support.</p>
+	<p></p>
 	<h2>Areas of Expertise</h2>
 	<ul>
 		<li>Process Analysis & Improvement</li>
