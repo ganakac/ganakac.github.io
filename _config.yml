@@ -44,7 +44,9 @@ social:
     youtube: ganaka.c
     #tumblr: i-am-a-fish
 
-#google_analytics: "UA-58263416-1"
+#google_analytics: "UA-58263416-1"  - This is the original line
+
+google_analytics: "G-CHZPPR9LY0"
 
 disqus:
     shortname: ganakac
