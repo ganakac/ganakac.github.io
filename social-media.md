@@ -6,7 +6,7 @@ title: Social Media
 <div class="post">
 	<h1 class="pageTitle">How I Unwind & Reset</h1>
 	<img src="{{ '/assets/img/Ganaka_Run.png' | relative_url }}" alt="">
-	<p class="intro">I'm an engineer and an analyst. Find more about me on, <a href="https://www.linkedin.com/in/ganaka-chandrakumara/">Linkedin</a> and Stay Connected. You are here because we have a common mission.</p>
+	<p class="intro">Why I love hiking and getting outdoors, push my self mentally and physically.</p>
 	<p>I'm hear to support.</p>
 	<h2>Areas of Expertise</h2>
 	<ul>
