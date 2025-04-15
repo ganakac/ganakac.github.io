@@ -8,13 +8,22 @@ title: Career Highlights
 	<!-- <img src="{{ '/assets/img/Ganaka_Run.png' | relative_url }}" alt=""> -->
 	<p class="intro">My professional interests, principles and how I wish to give back.</p>
 	<p></p>
-	<strong>Co-Founding Program Lead - Next Gen, Employee Resource Group - Ericsson, Market Area Southeast Asia, Oceania & India</strong>
+	<dl>
+	  <dt><strong>Co-Founding Program Lead - Next Gen, Employee Resource Group - Ericsson, Market Area Southeast Asia, Oceania & India</strong></dt>
 	<h2>Program Lead - Young Professionals, Ericsson Australia & NZ </h2>
 	<h2>Culture Chamption Award - Young Professionals Summit 2020</h2>
 	<p>This award personifies the Ericsson values and recgonises the young professional that takes an active role outside of their day job to influence and advocate for issues that go to the core of what Ericsson stands for.</p>
-	<h3>Vice-President - Mechanical Engineering Graduates Association </h3> 
+	<dt> <h3>Vice-President - Mechanical Engineering Graduates Association </h3> 
 	 <p> <strong>Monash University</strong></p>
 	 <p>2014-2015</p>
-	 <p>details.</p>
+	</dt>
+	 <dd>details.</dd>
 
 </div>
+
+<dl>
+  <dt>Coffee</dt>
+  <dd>Black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>White cold drink</dd>
+</dl>
