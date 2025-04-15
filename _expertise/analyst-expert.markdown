@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: expert
 title:  "Analyst"
 date:   2023-12-20
 url: https://medium.com/@ganaka.c/realisations-as-i-hiked-to-the-base-of-mount-everest-8af5457ca4f3
