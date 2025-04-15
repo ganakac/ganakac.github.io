@@ -30,8 +30,8 @@ navigation:
       url: /articles
     - title: Social Media
       url: /social-media
-    - title: About
-      url: /about
+    #- title: About
+     # url: /about
     - title: Connect
       url: /connect
 
