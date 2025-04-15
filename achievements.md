@@ -4,15 +4,15 @@ title: Career Highlights
 ---
 
 <div class="post">
-	<h1 class="pageTitle">Professional Milestones & Achievements</h1>
+	<h1 class="pageTitle">Career Highlights</h1>
 	<!-- <img src="{{ '/assets/img/Ganaka_Run.png' | relative_url }}" alt=""> -->
 	<p class="intro">My professional interests, principles and how I wish to give back.</p>
 	<p></p>
-	<strong>Co-Founding Lead - Next Gen, Employee Resource Group - Ericsson, Market Area Southeast Asia, Oceania & India</strong>
+	<strong>Co-Founding Program Lead - Next Gen, Employee Resource Group - Ericsson, Market Area Southeast Asia, Oceania & India</strong>
 	<h2>Program Lead - Young Professionals, Ericsson Australia & NZ </h2>
 	<h2>Culture Chamption Award - Young Professionals Summit 2020</h2>
 	<p>This award personifies the Ericsson values and recgonises the young professional that takes an active role outside of their day job to influence and advocate for issues that go to the core of what Ericsson stands for.</p>
-	<h4>Vice-President - <p>Mechanical Engineering Graduates Association, Monash University</p></h4>2014-2015
+	<h3>Vice-President - Mechanical Engineering Graduates Association </h3> <p> <strong>Monash University</strong></p><p>2014-2015</p>
 	<p>details.</p>
 
 </div>
