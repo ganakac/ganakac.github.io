@@ -18,5 +18,6 @@ title: Career Highlights
 	   <p>2014-2015</p>
 	  </dt>
 	  <dd>details.</dd>
+	</dl>
 
 </div>
