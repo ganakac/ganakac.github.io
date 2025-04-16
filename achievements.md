@@ -10,8 +10,8 @@ title: Career Highlights
 	<p></p>
 	<dl>
 	  <dt>Co-Founding Program Lead - Next Gen, Employee Resource Group <br> Ericsson, Market Area - India, Southeast Asia & Oceania, 2024</dt>
-		<dd> ....details... </dd>
-	  <dt>Program Lead - Young Professionals, Ericsson Australia & NZ </dt>
+		<dd> Formulate a program agenda and secure stakeholder buy-in to fund the Next Gen ERG. Primary aim of this program is to design a community program within the market area to promote collaborations between employees from different functional groups and build a go-to platform employees could support each other's personal and career growth</dd>
+	  <dt>Program Lead - Young Professionals, Ericsson Australia & NZ <br> 2020-2023 </dt>
 		<dd> ....details... </dd>
 	  <dt>Culture Chamption Award - Young Professionals Summit 2020</dt>
 	    <dd>This award personifies the Ericsson values and recgonises the young professional that takes an active role outside of their day job to influence and advocate for issues that go to the core of what Ericsson stands for.</dd>
