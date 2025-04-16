@@ -11,9 +11,9 @@ title: Career Highlights
 	<dl>
 	  <dt>Co-Founding Program Lead - Next Gen, Employee Resource Group <br> Ericsson, Market Area India, Southeast Asia & Oceania & India,2024</dt>
 		<dd> ....details... </dd>
-	  <h2>Program Lead - Young Professionals, Ericsson Australia & NZ </h2>
-	  <h2>Culture Chamption Award - Young Professionals Summit 2020</h2>
-	  <p>This award personifies the Ericsson values and recgonises the young professional that takes an active role outside of their day job to influence and advocate for issues that go to the core of what Ericsson stands for.</p>
+	  <dt>Program Lead - Young Professionals, Ericsson Australia & NZ </dt>
+	  <dt>Culture Chamption Award - Young Professionals Summit 2020</dt>
+	    <dd>This award personifies the Ericsson values and recgonises the young professional that takes an active role outside of their day job to influence and advocate for issues that go to the core of what Ericsson stands for.</dd>
 	  <dt>Vice-President - Mechanical Engineering Graduates Association <br> Monash University, 2014-2015</dt>
 	    <dd>details.</dd>
 	</dl>
