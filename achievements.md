@@ -9,7 +9,7 @@ title: Career Highlights
 	<p class="intro">My professional interests, principles and how I wish to give back.</p>
 	<p></p>
 	<dl>
-	  <dt>Co-Founding Program Lead - Next Gen, Employee Resource Group <br> Ericsson, Market Area India, Southeast Asia & Oceania & India,2024</dt>
+	  <dt>Co-Founding Program Lead - Next Gen, Employee Resource Group <br> Ericsson, Market Area - India, Southeast Asia & Oceania, 2024</dt>
 		<dd> ....details... </dd>
 	  <dt>Program Lead - Young Professionals, Ericsson Australia & NZ </dt>
 		<dd> ....details... </dd>
