@@ -4,7 +4,7 @@ title: Career Highlights
 ---
 
 <div class="post">
-	<h1 class="pageTitle">Career Highlights</h1>
+  <h1 class="pageTitle">Career Highlights</h1>
 	<!-- <img src="{{ '/assets/img/Ganaka_Run.png' | relative_url }}" alt=""> -->
 	<p class="intro">My professional interests, principles and how I wish to give back.</p>
 	<p></p>
