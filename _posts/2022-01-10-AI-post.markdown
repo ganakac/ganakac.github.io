@@ -8,5 +8,5 @@ description: AI, the buzz word known as Artificial Intelligence, in practice can
 
 AI, the buzz word known as Artificial Intelligence, in practice can be explained as Augmented Intelligence; a tool that has been in development since 1950s to extend human capabilities to complete tasks no human or machine could accomplish on their own. The world has already shifted towards building an AI integrated future and it’s our responsibility to ensure it’s heading in the right direction.
 
-<img src="/assets/img/1Ganaka_Chandrakumara.png" alt=""> 
+<!-- <img src="/assets/img/1Ganaka_Chandrakumara.png" alt=""> -->
 
