@@ -186,6 +186,7 @@ HEADER STYLING
 	background-position: center center;
 	color: white;
 	padding: 0;
+	padding-top: 1rem; //GC - Added this new item 
 	height: 5em; //GC - Changed from 3em to 5em
 
 	.container {
@@ -198,7 +199,7 @@ HEADER STYLING
 		float: left;
 		padding-left: 2rem;
 		font-size: 1em;
-		line-height: 1em; //GC - Changed from 3em to 2em
+		line-height: 1em; //GC - Changed from 3em to 1em
 		font-family: $sans-serif;
 		font-weight: 800;
 		text-transform: uppercase; //GC - Changed from uppercase to capitalize, and back to uppercase
