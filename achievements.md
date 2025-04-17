@@ -9,7 +9,7 @@ title: Career Highlights
 	<p class="intro">My professional interests, principles and how I wish to give back.</p>
 	<p></p>
 	<dl>
-	  <dt>Co-Founding Program Lead - Next Gen, Employee Resource Group <br> Ericsson, Market Area - India, Southeast Asia & Oceania, 2024</dt>
+	  <dt>Co-Founding Program Lead - Next Gen, Employee Resource Group <br> Ericsson, Market Area - India, Southeast Asia & Oceania <br> 2024</dt>
 		<dd> Formulate a program agenda and secure stakeholder buy-in to fund the Next Gen ERG. Primary aim of this program is to design a community program within the market area to promote collaborations between employees from different functional groups and build a go-to platform employees could support each other's personal and career growth</dd>
 	  <dt>Program Lead - Young Professionals, Ericsson Australia & NZ <br> 2020-2023 </dt>
 		<dd> Manage all aspects of Annual Young Professionals Summit and other aspects of Young Professionals community program such as training, promotion rates, networking, health & wellbeing. </dd>
