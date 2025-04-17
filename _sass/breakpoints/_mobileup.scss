@@ -201,7 +201,7 @@ HEADER STYLING
 		line-height: 3em; //GC - Changed from 3em to 4em
 		font-family: $sans-serif;
 		font-weight: 800;
-		text-transform: uppercase;
+		text-transform: capitalize; //GC - Changed from uppercase to capitalize
 
 		a {
 			color: white;
