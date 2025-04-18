@@ -23,11 +23,11 @@ title: Social Media
   <div> 
     <!-- class="contactContent"> -->
     <p class="intro">Why I love hiking and getting outdoors, push my self mentally and physically.</p>
-    <div>
-	<figure>
-		<img src="{{ '/assets/img/Ganaka_Run.png' | relative_url }}" alt="Great Ocean Road Running Festival, 2017" style="height: 50%; width:50%;" align="right">
-		<figcaption>Great Ocean Road Running Festival, 2017</figcaption>
-	</figure>
-    </div>
+	  <div>
+	 	<figure>
+			<img src="{{ '/assets/img/Ganaka_Run.png' | relative_url }}" alt="Great Ocean Road Running Festival, 2017" style="height: 50%; width:50%;" align="right">
+			<figcaption>Great Ocean Road Running Festival, 2017</figcaption>
+		</figure>
+    	</div>
   </div>	
 </div>
