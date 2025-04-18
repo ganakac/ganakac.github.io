@@ -26,7 +26,7 @@ title: Social Media
     </div>
     <figure>
 	<img src="{{ '/assets/img/Ganaka_Run.png' | relative_url }}" alt="Great Ocean Road Running Festival, 2017" style="height: 35%; width:35%;" align="right">
-	<figcaption {position: absolute}>Great Ocean Road Running Festival, 2017</figcaption>
+	<figcaption>Great Ocean Road Running Festival, 2017</figcaption>
     </figure>
   </div>	
 </div>
