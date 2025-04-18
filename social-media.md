@@ -21,7 +21,7 @@ title: Social Media
 <div class="post">
   <h1 class="pageTitle">How I Unwind & Reset</h1>
   <div> 
-    class="contactContent">
+    <!-- class="contactContent"> -->
     <p class="intro">Why I love hiking and getting outdoors, push my self mentally and physically.</p>
   </div>
 	<figure>
