@@ -21,9 +21,9 @@ title: Social Media
 <div class="post">
   <h1 class="pageTitle">How I Unwind & Reset</h1>
   <div class="contactContent">
-	  <div>
-		  <p class="intro">Why I love hiking and getting outdoors, push my self mentally and physically.</p>
-	  </div>
+    <div>
+	<p class="intro">Why I love hiking and getting outdoors, push my self mentally and physically.</p>
+    </div>
     <figure>
 	<img src="{{ '/assets/img/Ganaka_Run.png' | relative_url }}" alt="Great Ocean Road Running Festival, 2017" style="height: 50%; width:50%;" align="right">
 	<figcaption>Great Ocean Road Running Festival, 2017</figcaption>
