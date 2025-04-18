@@ -18,9 +18,9 @@ title: Social Media
   </dl>
 </div>
 -->
-<div class="contactContent">
+<div class="post">
   <h1 class="pageTitle">How I Unwind & Reset</h1>
-  <div> 
+  <div class="contactContent">
     <!-- class="contactContent"> -->
     <div>
       <p class="intro">Why I love hiking and getting outdoors, push my self mentally and physically.</p>
