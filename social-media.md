@@ -18,7 +18,7 @@ title: Social Media
   </dl>
 </div>
 -->
-<div class="connect">
+<div id="connect">
   <h1 class="pageTitle">How I Unwind & Reset</h1>
   <div> 
     class="contactContent">
