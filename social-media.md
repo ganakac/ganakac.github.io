@@ -20,10 +20,10 @@ title: Social Media
 -->
 <div class="post">
   <h1 class="pageTitle">How I Unwind & Reset</h1>
-  <div>
+  <div
     max-width: 40%; 
     margin-right: 1%; 
-    float: left; 
+    float: left;> 
     <p class="intro">Why I love hiking and getting outdoors, push my self mentally and physically.</p>
   </div>
 	<figure>
