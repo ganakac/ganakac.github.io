@@ -31,7 +31,7 @@ title: Social Media
   </div>	
 </div>
 
-Youtube: <a href="https://www.youtube.com/@ganaka.c" target="_blank"> youtube.com/@ganaka.c </a> 
+<!-- Youtube: <a href="https://www.youtube.com/@ganaka.c" target="_blank"> youtube.com/@ganaka.c </a> -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T8oxq5_zj9Q?si=GaG5Iad7EfjV1WE6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
