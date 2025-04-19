@@ -22,7 +22,7 @@ title: Social Media
   <h1 class="pageTitle">How I Unwind & Reset</h1>
   <div>
     <div class="contactContent">
-	<p class="intro">Why I love hiking and getting outdoors, push my self mentally and physically.</p>
+	<p class="intro">I love hiking and getting outdoors, push my self mentally and physically.</p>
     </div>
     <figure>
 	<img src="{{ '/assets/img/Ganaka_Run.png' | relative_url }}" alt="Great Ocean Road Running Festival, 2017" style="height: 30%; width:30%;" align="right">
@@ -36,6 +36,8 @@ title: Social Media
 <iframe width="280" height="155" src="https://www.youtube.com/embed/T8oxq5_zj9Q?si=GaG5Iad7EfjV1WE6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NS50Yn0QFeM?si=Zr-ThIezeWHxwIBj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v48ZrEVXahs?si=i9IbIQ0VyYxeFsfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NyYsnN3ibf4?si=MSgQFqqc4-Y6XCzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
