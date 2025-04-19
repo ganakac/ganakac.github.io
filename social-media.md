@@ -37,4 +37,6 @@ Youtube: <a href="https://www.youtube.com/@ganaka.c" target="_blank"> youtube.co
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NS50Yn0QFeM?si=Zr-ThIezeWHxwIBj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NyYsnN3ibf4?si=MSgQFqqc4-Y6XCzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <!-- <a href="https://youtu.be/T8oxq5_zj9Q" target="_blank"> Paragliding in New Zealand </a> -->
