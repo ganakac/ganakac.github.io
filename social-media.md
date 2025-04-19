@@ -33,7 +33,7 @@ title: Social Media
 
 Youtube: <a href="https://www.youtube.com/@ganaka.c" target="_blank"> youtube.com/@ganaka.c </a> 
 
-<iframe width="210" height="170" src="[https://www.youtube.com/embed/tgbNymZ7vqY](https://youtu.be/T8oxq5_zj9Q)">
+<iframe width="210" height="170" src="https://youtu.be/T8oxq5_zj9Q">
 </iframe>
 
 <a href="https://youtu.be/T8oxq5_zj9Q" target="_blank"> Paragliding in New Zealand </a>
