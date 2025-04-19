@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Social Media
+title: Leisure
 ---
 <!--
 <div id="connect">
