@@ -6,7 +6,7 @@ title: BA-Skills Ganaka Chandrakumara
 <!-- <p> This page is under construction </p> -->
 
 <div class="post">
-	<h1 class="pageTitle">Business Analytics Experience & Responsibilities</h1>
+	<h1 class="pageTitle">BA-Skills</h1>
 	<img src="{{ '/assets/img/Ganaka_Run.png' | relative_url }}" alt="">
 	<p class="intro">I'm an engineer and an analyst. Find more about me on, <a href="https://www.linkedin.com/in/ganaka-chandrakumara/">Linkedin</a> and Stay Connected. You are here because we have a common mission.</p>
 	<p>I'm hear to support.</p>
