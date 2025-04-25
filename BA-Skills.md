@@ -9,7 +9,7 @@ title: BA-Skills
 	<p> This page is under construction </p>
 	<!-- <img src="{{ '/assets/img/Ganaka_Run.png' | relative_url }}" alt=""> -->
 	<!-- <p class="intro">I'm an engineer and an analyst. Find more about me on, <a href="https://www.linkedin.com/in/ganaka-chandrakumara/">Linkedin</a> and Stay Connected. You are here because we have a common mission.</p> -->
-	<h2>Areas of Expertise</h2>
+<!--	<h2>Areas of Expertise</h2>
 	<ul>
 		<li>Process Analysis & Improvement</li>
   		<li>Automation</li>
@@ -22,4 +22,5 @@ title: BA-Skills
   		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
   		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
   	</ul>
+ -->
 </div>
