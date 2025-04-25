@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BA-Skills Ganaka Chandrakumara
+title: BA-Skills
 ---
 
 <!-- <p> This page is under construction </p> -->
