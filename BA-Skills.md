@@ -6,7 +6,7 @@ title: BA-Skills
 
 <div class="post">
 	<h1 class="pageTitle">BA-Skills</h1>
-	<p> This page is under construction </p>
+	<!-- <p> This page is under construction </p> -->
 	<dl>
 	  <dt>Proven business analysis experience and related technical experience:</dt>
 	  <dd>With a background in engineering, I have successfully navigated complex infrastructure projects while also spearheading business process improvements, contract management, and operational enhancements within ICT and service industries. My hands-on experience with data driven decision-making and strategic problem-solving has allowed me to bridge technical expertise with business acumen, ensuring seamless integration of innovative solutions that align with organizational objectives.</dd>
