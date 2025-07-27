@@ -17,12 +17,9 @@ title: Connect Ganaka Chandrakumara
     <!-- <dt>Youtube: <a href="https://www.youtube.com/@ganaka.c" target="_blank"> youtube/@ganaka.c </a> </dt> -->
   </dl>
 
-  ul {
-  list-style: none;
-  }
-
-ul li:before {
+  ul li::marker {
   content: '✓';
+  color: green;
   }
   <ul>
   <li>this is my text</li>
