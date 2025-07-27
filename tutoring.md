@@ -9,9 +9,10 @@ title: Connect Ganaka Chandrakumara
     <p class="intro">I'm a qualified engineer with a doctorate and more than a decade of experience in both academia and industry (local & global companies). Completed both my Bachelors with 1st Class Hons (2012 in Mechanical Engineering) and PhD (2017 in MEMS) at Monash Uni. I have several years of experience tutoring undergraduates in mechanical and mechatronics units. I'm open for both in-person (uni or a location close to Clayton campus) or online sessions. I tailor the session to suit your learning style and to target the areas you need help on. Please reach out for a quick chat, happy to hear how I could help you.</p>
      <dl>
   <!-- <dl {display: grid; grid-template-columns: max-content auto;}> -->
-    <dt>Linkedin: </dt>
-    <dt>Email:  </dt>
-    <dt>Medium: </dt>
+    <dt>Flexible scheduling in-person or online </dt>
+    <dt>One-on-one sessions at $40/hr </dt>
+    <dt>Group of two at $35/hr per head </dt>
+    <dt>Group of three or more at $30/hr per head </dt>
     <!-- <dt>Youtube: <a href="https://www.youtube.com/@ganaka.c" target="_blank"> youtube/@ganaka.c </a> </dt> -->
   </dl>
    
