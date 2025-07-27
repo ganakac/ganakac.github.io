@@ -24,6 +24,14 @@ title: Connect Ganaka Chandrakumara
 ul li:before {
   content: '✓';
   }
+  <ul>
+  <li>this is my text</li>
+  <li>this is my text</li>
+  <li>this is my text</li>
+  <li>this is my text</li>
+  <li>this is my text</li>
+  </ul>
+  
   </div>
   <dl>
   <!-- <dl {display: grid; grid-template-columns: max-content auto;}> -->
