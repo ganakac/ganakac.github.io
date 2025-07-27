@@ -4,9 +4,9 @@ title: Connect Ganaka Chandrakumara
 ---
 
 <div id="connect">
-  <h1 class="pageTitle">Let's Connect</h1>
+  <h1 class="pageTitle">Need Help with Engineering Courses?</h1>
   <div class="contactContent">
-    <p class="intro">You are here because we have mutual interests and goals, let's connect and stay in touch.</p>
+    <p class="intro">Tutoring Description.</p>
    
   </div>
   <dl>
