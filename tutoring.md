@@ -17,13 +17,13 @@ title: Connect Ganaka Chandrakumara
     <!-- <dt>Youtube: <a href="https://www.youtube.com/@ganaka.c" target="_blank"> youtube/@ganaka.c </a> </dt> -->
   </dl>
 
-   ul {
+  ul {
   list-style: none;
-}
+  }
 
 ul li:before {
   content: '✓';
-}
+  }
   </div>
   <dl>
   <!-- <dl {display: grid; grid-template-columns: max-content auto;}> -->
