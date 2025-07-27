@@ -22,11 +22,11 @@ title: Connect Ganaka Chandrakumara
   color: green;
   }
   <ul>
-  <li>this is my text</li>
-  <li>this is my text</li>
-  <li>this is my text</li>
-  <li>this is my text</li>
-  <li>this is my text</li>
+  <li>Flexible scheduling in-person or online</li>
+  <li>Tailored to suit your learning style and needs</li>
+  <li>One-on-one sessions at $40/hr</li>
+  <li>Group of two at $35/hr per head</li>
+  <li>Group of three or more at $30/hr per head</li>
   </ul>
   
   </div>
